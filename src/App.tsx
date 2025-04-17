@@ -3,7 +3,6 @@ import "./App.css";
 import JobList from "./components/JobList";
 import ModalForm from "./components/ModalForm/ModalForm";
 import { createPortal } from "react-dom";
-import DragDropList from "./components/DragDropList/DragDropList";
 import { JobType } from "./types/jobTypes";
 import BoardSectionList from "./components/BoardSectionList";
 
